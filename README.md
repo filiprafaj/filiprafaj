@@ -1,4 +1,12 @@
-- Hi, I’m @filiprafaj
+Hi, I’m @filiprafaj.
+
+Recommended tools:
+- https://rambox.app/
+- https://k9scli.io/
+- https://github.com/Guake/guake
+- https://addons.mozilla.org/en-US/firefox/addon/vimium-ff/
+- https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock
+- https://marketplace.visualstudio.com/items?itemName=kortina.run-in-terminal
 <!-- - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
